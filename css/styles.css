@@ -4,7 +4,7 @@ body {
 }
 
 body {
-  background-image: url('image/background.jpg');
+  background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
   display: -ms-flexbox;
   display: -webkit-box;
   display: flex;
@@ -16,6 +16,7 @@ body {
   justify-content: center;
   padding-top: 40px;
   padding-bottom: 40px;
+  background-color:  #d27979;
 }
 
 .form-input {
