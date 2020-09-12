@@ -4,8 +4,7 @@ body {
 }
 
 body {
-  background: linear-gradient(90deg, rgba(28,90,255,1) 0%, rgba(118,237,242,1) 71%, rgba(203,253,255,1) 100%);
-  background-image: url('/image/background.jpg');
+  background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
   display: -ms-flexbox;
   display: -webkit-box;
   display: flex;
